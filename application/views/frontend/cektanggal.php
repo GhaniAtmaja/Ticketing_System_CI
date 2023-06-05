@@ -147,18 +147,18 @@
 			<div class="modal-body">
 				<div class="table-responsive">
 					<ol class="ordered-list" align="justify"><span class="center_content2">
-					<li>Select date and select your origin and destination terminal/city in order to search for available schedules.
-							<li>Search for tickets then click on the <b>Select </b> button on the ticket you want to book.
+					<li>Select date, origin, and destination terminal.
+							<li>Search for tickets <b>Select </b>you want to book.
 							</li>
-							<li>The system will redirect you to seat selection page where you have to <b>select any seats</b> [Max.4 seats at a time]</li>
+							<li>The selection page where you have to <b>select any seats</b></li>
 							<li>After selection of seats, click on the <b>Next </b>button to proceed. </li>
-							<li>Fill up your ticket details by providing customer's details such as Passenger's Name, Age and other required <b>Customer Identity</b>. With it, select any of the available bank [as a Payment Method] to book tickets.</li>
-							<li>After submitting the form, the bookings are done <b>[temporarily]</b>. The system will provide you with a <b>QR Code</b> and you've to make payments.</li>
+							<li>Fill up your details. select the available bank to book tickets.</li>
+							<li>The system will provide with a <b>QR Code</b> to make payments.</li>
 							<li>All the payment instructions are provided in the tickets page.</li>
-							<li>Following that, click on the <b>Payment Confirmation</b> button to submit your payment details with an attachment of <b>proof image</b>.</li>
+							<li>Submit your payment details with an attachment of <b>proof image</b>.</li>
 							<li>At last, you payment request will be sent for <b>verification</b>. </li>
 							<li>You will also receive an <b>E-Ticket</b> onces after the payment gets verified. </li>
-							<li>If you have made a payment, bring proof of payment at the time of departure and exchange it one hour before departure. </li>
+							<li>Bring proof of payment at the time of departure and exchange before departure. </li>
 						</span></ol>
 					<w:worddocument></w:worddocument>
 				</div>

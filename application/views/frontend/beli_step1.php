@@ -75,7 +75,7 @@
 										</td>
 										<td class='btn-group' width='139'>
 											<!--=================================================START 3C=========================================================-->
-											<label class='btn btn-primary'>
+											<label class='btn btn-danger'>
 												<a value='' autocomplete='off' disabled='disabled'>Driver's Seat</a>
 											</label>
 										</td>

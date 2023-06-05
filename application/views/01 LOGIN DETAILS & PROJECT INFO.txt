@@ -1,11 +1,5 @@
-**Visit freesourcecodes.buzzfor more projects!**
 
 **Database Name: busticketci**
-
-**Developed by Dope developers**
-
-**Recommended PHP Version 5, 7**
-
 
 **Admin Login Details** 
 

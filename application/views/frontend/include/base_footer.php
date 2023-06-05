@@ -8,14 +8,14 @@
 
 								</p>
 								<p class="number">
-									08123-456-789
+									0812-9238-9012
 								</p>
 							</div>
 						</div>						
 						<div class="col-lg-5  col-md-6 col-sm-6">
 							<div class="single-footer-widget">
 								<h4 class="text-white">Newsletter</h4>
-								<p>Masukkan email anda untuk mendapatkan berita dari kami.</p>
+								<p class="text-white" >Enter your email to get news from us.</p>
 								<div class="d-flex flex-row" id="mc_embed_signup">
 										<form class="navbar-form" novalidate="true" action="" method="post">
 									    <div class="input-group add-on">
@@ -36,7 +36,7 @@
 					</div>
 					<div class="footer-bottom d-flex justify-content-between align-items-center flex-wrap">
 						<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            <p class="footer-text m-0"><span>&copy; <?= date('Y') ?> PT. BUSSIN Indonesia </span> </p>
+            <p class="footer-text m-0"><span class="text-white">&copy; <?= date('Y') ?> PT. BUSSIN Indonesia </span> </p>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 			<!-- Visit freesourcecodes.buzzfor more projects -->
 						<!-- <div class="footer-social d-flex align-items-center">

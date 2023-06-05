@@ -61,8 +61,8 @@
 							"<em>I'm Bussin'</em>"		
 							</h2>
 						<p class="text-white" >
-						Dengan jalan waktu, penggunaan kendaraan umum seperti bus semakin diperlukan. Kami dari tim Bussin bertujuan untuk mempermudah proses pencarian dan booking ticket online dengan layanan kami. Dengan Bussin, kamu dapat melakukan booking tiket secara online dengan mudah.						</p>
-						<a href="<?php echo base_url() ?>tiket" class="btn btn-danger text-uppercase">Cari Tiket</a>
+						With the passage of time, the use of public transportation such as buses has become increasingly necessary. We, from the Bussin team, aim to simplify the process of searching for and booking tickets online with our service. With Bussin, you can easily book tickets online.</p>
+						<a href="<?php echo base_url() ?>tiket" class="btn btn-light text-uppercase">Cari Tiket</a>
 					</div>
 				</div>
 			</div>

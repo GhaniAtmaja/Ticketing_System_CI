@@ -30,7 +30,7 @@
 				<div class="row height align-items-center justify-content-center">
 					<div class="col-lg-5">
 						<div class="card card-login mx-auto mt-10">
-							<div class="card-header">Customer Login Panel</div>
+							<div class="card-header"><label class="text-black">Customer Login</label></div>
 							<div class="card-body" align="left">
 								<?php echo $this->session->flashdata('pesan'); ?>
 								<form action="<?php echo base_url() ?>login/cekuser" method="post">
@@ -46,7 +46,7 @@
 									</div>
 									<div class="form-group">
 										<div class="checkbox">
-											<label>
+											<label class="text-black">
 												<input type="checkbox" value="remember-me">
 												Remember Password
 											</label>

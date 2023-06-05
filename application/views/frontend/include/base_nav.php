@@ -2,7 +2,7 @@
 		    <div class="container">
 		    	<div class="row align-items-center justify-content-between d-flex">
 			      <div id="logo">
-			        <a href="<?php echo base_url() ?>"><h3> <i class="fas fa-bus"></i> <b>BUSSIN'</b></h3></a>
+			        <a href="<?php echo base_url() ?>"><h3 class="text-white"> <i class="fas fa-bus"></i> <b class="text-white">BUSSIN'</b></h3></a>
 			      </div>
 			      <nav id="nav-menu-container">
 			        <ul class="nav-menu">
